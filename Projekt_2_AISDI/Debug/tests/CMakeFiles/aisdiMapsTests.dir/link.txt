@@ -1,0 +1,1 @@
+/usr/bin/c++    --std=c++11 -Wall -pedantic -Wextra -Werror -g -O0 -g3    CMakeFiles/aisdiMapsTests.dir/test_main.cpp.o CMakeFiles/aisdiMapsTests.dir/TreeMapTests.cpp.o CMakeFiles/aisdiMapsTests.dir/HashMapTests.cpp.o  -o aisdiMapsTests -rdynamic -lboost_unit_test_framework 

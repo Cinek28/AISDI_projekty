@@ -1,0 +1,21 @@
+Start testing: Jan 13 04:49 CET
+----------------------------------------------------------
+1/1 Testing: boostUnitTestsRun
+1/1 Test: boostUnitTestsRun
+Command: "/home/marcin/Pulpit/Projekt_2_AISDI/Debug/tests/aisdiMapsTests"
+Directory: /home/marcin/Pulpit/Projekt_2_AISDI/Debug/tests
+"boostUnitTestsRun" start time: Jan 13 04:49 CET
+Output:
+----------------------------------------------------------
+Running 196 test cases...
+
+*** No errors detected
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"boostUnitTestsRun" end time: Jan 13 04:49 CET
+"boostUnitTestsRun" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 13 04:49 CET

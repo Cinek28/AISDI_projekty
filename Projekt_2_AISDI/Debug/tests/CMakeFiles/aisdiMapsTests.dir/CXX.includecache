@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/TreeMap.h
+cstddef
+-
+initializer_list
+-
+stdexcept
+-
+utility
+-
+
+/home/marcin/Pulpit/Projekt_2_AISDI/tests/TreeMapTests.cpp
+TreeMap.h
+-
+cstdint
+-
+string
+-
+map
+-
+boost/test/unit_test.hpp
+-
+boost/mpl/list.hpp
+-
+

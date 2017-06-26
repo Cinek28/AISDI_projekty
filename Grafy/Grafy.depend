@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1485392464 source:/home/marcin/Dokumenty/Projekty/Grafy/main.cpp
+	<iostream>
+	<Graph.h>
+	<algorithm>
+
+1485392119 /home/marcin/Dokumenty/Projekty/Grafy/include/Graph.h
+	<algorithm>
+	<iostream>
+	<fstream>
+	<vector>
+
+1485392237 source:/home/marcin/Dokumenty/Projekty/Grafy/src/Graph.cpp
+	"Graph.h"
+
